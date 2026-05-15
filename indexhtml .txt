@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kartu Nama Digital - Nina Yulianti</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f5f5f5;
+      text-align: center;
+      padding: 40px 20px;
+    }
+    .card {
+      background: white;
+      max-width: 350px;
+      margin: auto;
+      padding: 30px;
+      border-radius: 15px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    img {
+      border-radius: 50%;
+      width: 120px;
+      height: 120px;
+      object-fit: cover;
+      margin-bottom: 15px;
+    }
+    h1 {
+      margin: 10px 0 5px;
+      font-size: 22px;
+    }
+    p {
+      color: #555;
+      font-size: 15px;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 25px;
+      background: #25D366;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: bold;
+    }
+    .btn:hover {
+      background: #1ebe5d;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <img src="foto-nina.jpg" alt="Foto Nina Yulianti">
+    
+    <h1>Nina Yulianti</h1>
+    <p>Jasa ketik skripsi, makalah, tugas, dan edit foto. Cepat, rapi, harga pelajar.</p>
+    
+    <a href="https://wa.me/6289676292553" class="btn">Chat WA Sekarang</a>
+  </div>
+</body>
+</html>
