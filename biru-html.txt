@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tema Biru</title>
+<style>
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #2193b0, #6dd5ed);
+    color: white;
+    text-align: center;
+    padding: 50px;
+  }
+  h1 { font-size: 40px; }
+  p { font-size: 18px; }
+</style>
+</head>
+<body>
+  <h1>Halo, ini Tema Biru</h1>
+  <p>Website kamu udah kebuka!</p>
+</body>
+</html>
